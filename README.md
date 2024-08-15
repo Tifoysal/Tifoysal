@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mohammad Tohidul Islam Foysal
+- 👋 Hi, I’m @Md Tohidul Islam Foysal
 - 👀 I’m interested in software architecture design and development using PHP-Laravel
-- 🌱 I’m currently learning and pacticing DevOps
+- 🌱 I’m currently learning and practicing DevOps
 - 📫 Reach me via email: foysal.kodeeo@gmail.com
 
 <!---
